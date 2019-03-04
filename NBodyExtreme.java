@@ -1,4 +1,11 @@
 /** @author Dev Ojha */
+/** 
+RUN THIS FILE TO PLAY GAME. Copy text below into terminal. 
+
+javac NBodyExtreme.java
+java NBodyExtreme 157788000.0 25000.0 data/planets.txt
+
+*/
 import java.util.Arrays;
 
 public class NBodyExtreme {
